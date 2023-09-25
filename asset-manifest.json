@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ecommerce-shopping-cart.git/static/css/main.4169ee33.css",
+    "main.js": "/ecommerce-shopping-cart.git/static/js/main.3fa067b6.js",
+    "index.html": "/ecommerce-shopping-cart.git/index.html",
+    "main.4169ee33.css.map": "/ecommerce-shopping-cart.git/static/css/main.4169ee33.css.map",
+    "main.3fa067b6.js.map": "/ecommerce-shopping-cart.git/static/js/main.3fa067b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4169ee33.css",
+    "static/js/main.3fa067b6.js"
+  ]
+}
